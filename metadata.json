@@ -1,0 +1,6 @@
+{
+  "name": "AgriShield AI",
+  "description": "Predictive Digital Twin for Smart Agriculture featuring real-time IoT telemetry, AI motor fault-risk prediction, automated safety cutoffs, and smart irrigation recommendations.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
