@@ -140,7 +140,7 @@ The AgriShield AI Android application provides mobile access to the platform.
 
 The Android APK is available in this repository:
 
-**[⬇️ Download AgriShield AI APK](./AgriShield-AI.apk)**
+**[⬇️ Download AgriShield AI APK](./app-debug.apk)**
 
 ### Installation
 
