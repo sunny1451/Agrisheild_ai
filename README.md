@@ -144,12 +144,7 @@ The Android APK is available in this repository:
 
 ### Installation
 
-1. Download `AgriShield-AI.apk`.
-2. Transfer it to your Android device if necessary.
-3. Open the APK.
-4. Allow installation from unknown sources if Android requests permission.
-5. Install the application.
-6. Open AgriShield AI.
+1. click on the view for download the app 
 
 > Make sure you download the APK from the project's official repository or another trusted source.
 
